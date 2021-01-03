@@ -28,7 +28,7 @@ class Solution(object):
                     output = [ele1,ele2]
                     break;
                 else:
-                    output = "No Solution Found"
+                    output = "No Solution Found!"
 
         return output
 
